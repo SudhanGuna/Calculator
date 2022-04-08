@@ -14,6 +14,7 @@ buttons.forEach(function (button) {
     })
 });
 
+// Sample
 
 equal.addEventListener('click', function (e) {
     console.log(screen.value);
